@@ -1,0 +1,12 @@
+{
+    "main": {
+      "header": "Notes",
+      "search": "Search...",
+      "save": "Save",
+      "title": "Title",
+      "details":"Note details...",
+      "notfound": "Note not found",
+      "confDel": "Are you sure you want to delete the note?"
+
+    }
+  }
